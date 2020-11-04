@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheMovieDb</string>
+    <string name="app_description">Search for Actors,<br/> Movies and TV Shows</string>
+    <string name="logo_description">MovieDB Logo</string>
+</resources>
